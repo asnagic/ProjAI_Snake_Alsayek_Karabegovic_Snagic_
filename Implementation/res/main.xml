@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Images>
+		<Res id="settings" path=":images/settings.png"/>
+    	<Res id="easy" path=":images/easy.png"/>
+    	<Res id="medium" path=":images/medium.png"/>
+    	<Res id="hard" path=":images/hard.png"/>
+    	<Res id="backgroundSnake" path=":images/backgroundSnake.png"/>
+    	<Res id="start" path=":images/start.png"/>
+    	<Res id="stop" path=":images/stop.png"/>
+    	<Res id="ai" path=":images/ai.png"/>
+    	<Res id="human" path=":images/human.png"/>
+		<Res id="speed" path=":images/speed.png"/>
+		<Res id="timer" path=":images/timer.png"/>
+		<Res id="jabukaaa" path=":images/jabukaaa.png"/>
+		<Res id="zlatnajabukaa" path=":images/zlatnajabukaa.png"/>
+		<Res id="gameOver" path=":images/gameOver.png"/>
+		<Res id="ok" path=":images/ok.png"/>
+		<Res id="not" path=":images/not.png"/>
+		<Res id="dynamite" path=":images/dynamite.png"/>
+		<Res id="heartFull" path=":images/heartFull.png"/>
+		<Res id="heartEmpty" path=":images/heartEmpty.png"/>
+	</Images>
+
+	<Symbols>
+		<Res id="snake" path=":symbols/SnakeHead.xml"/>
+		<Res id="snakeOM" path=":symbols/SnakeHeadOM.xml"/>
+		<Res id="snakeBody" path=":symbols/SnakeBody.xml"/>
+	</Symbols>
+
+	<Sounds>
+		<Res id="backgroundSound" path=":sounds/backgroundSound.wav"/>
+		<Res id="appleBite" path=":sounds/appleBite.wav"/>
+		<Res id="gameOver" path=":sounds/gameOver.wav"/>
+		<Res id="timer" path=":sounds/timer.wav"/>
+		<Res id="speedboost" path=":sounds/speedboost.wav"/>
+		<Res id="goldenApple" path=":sounds/goldenApple.wav"/>
+		<Res id="bomb" path=":sounds/bomb.wav"/>
+	</Sounds>
+</DevRes>

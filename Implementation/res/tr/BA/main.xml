@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Translations>
+
+		<!-- Opšte -->
+		<Res id="appTitle" tr="Igra Zmija"/>
+		<Res id="settings" tr="Podešenja"/>
+		<Res id="settingsTT" tr="Podesite izgled i jezik aplikacije. Promjena jezika zahtijeva restart aplikacije."/>
+		<Res id="theApp" tr="Aplikacija"/>
+		<Res id="game" tr="Igra"/>
+		<Res id="Level" tr="Nivo"/>
+		<Res id="Easy" tr="Lagan"/>
+		<Res id="Medium" tr="Srednji"/>
+		<Res id="Hard" tr="Težak"/>
+		<Res id="Size:" tr="Veličina:"/>
+
+		<!-- Poruke u igri -->
+		<Res id="Done" tr="Igra je završena!"/>
+		<Res id="Dead" tr="UDARILI STE U ZID! Pokušajte ponovo!"/>
+		<Res id="AllOK" tr="ODLIČNO! Pojeli ste jabuku!"/>
+		<Res id="GameOverText" tr="Kraj igre"/>
+
+		<!-- Objekti -->
+		<Res id="RedApple" tr="Crvena jabuka"/>
+		<Res id="GoldenApple" tr="Zlatna jabuka"/>
+		<Res id="GoldenAppleDesc" tr="Zlatna jabuka vrijedi kao tri crvene jabuke."/>
+		<Res id="Lightning" tr="Grom"/>
+		<Res id="LightningDesc" tr="Grom privremeno povećava brzinu zmije."/>
+		<Res id="Clock" tr="Sat"/>
+		<Res id="ClockDesc" tr="Sat smanjuje preostalo vrijeme za 10 sekundi."/>
+		<Res id="dynamite" tr="Dinamita"/>
+		<Res id="dynamiteDesc" tr="Dinamita odmah završava igru."/>
+		<Res id="start" tr="Početak"/>
+		<Res id="stop" tr="Stop"/>
+		<Res id="ai" tr="AI Mod"/>
+		<Res id="human" tr="Igrač Mod"/>
+		<Res id="speed" tr="Brzina"/>
+		<Res id="timer" tr="Vrijeme"/>
+		<Res id="heartFull" tr="Puni život"/>
+		<Res id="heartEmpty" tr="Prazan život"/>
+
+		<!-- Podešenja -->
+		<Res id="dlgSettings" tr="Podešenja"/>
+		<Res id="lblLang" tr="Trenutni jezik aplikacije:"/>
+		<Res id="lblLang2" tr="Jezik aplikacije nakon restarta:"/>
+		<Res id="chbTBIcsAndLbls" tr="Prikaži labele ispod ikona na alatnoj traci."/>
+		<Res id="chbUseCombo" tr="Koristi ComboBox za odabir nivoa (težine) igre."/>
+		<Res id="theme" tr="Tema:"/>
+		<Res id="showStatusBar" tr="Prikaži statusnu traku"/>
+		<Res id="RestartRequired" tr="Restartovati aplikaciju"/>
+		<Res id="RestartRequiredInfo" tr="Neke promjene zahtijevaju ponovno pokretanje aplikacije kako bi bile primijenjene."/>
+		<Res id="Restart" tr="Restartovati"/>
+		<Res id="DoNoRestart" tr="Nemoj restartovati"/>
+
+		<Res id="modeHint" tr="Strelice &#8592; &#8594; mod, 1/2/3 težina, Enter pokreće igru"/>
+
+	</Translations>
+</DevRes>
